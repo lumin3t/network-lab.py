@@ -1,6 +1,8 @@
 import socket 
 import textwrap 
-import struct 
+import struct
+
+#To add spaces 
 TAB_1 = '\t - '
 TAB_2 = '\t\t - '
 TAB_3 = '\t\t\t - '
